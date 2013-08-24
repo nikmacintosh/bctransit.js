@@ -1,4 +1,4 @@
-# BCTransit
+# bctransit.js
 
 [![Build Status](https://travis-ci.org/knickmack/bctransit.js.png?branch=master)](https://travis-ci.org/knickmack/bctransit.js)
 
