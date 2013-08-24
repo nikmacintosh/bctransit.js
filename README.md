@@ -1,5 +1,7 @@
 # BCTransit
 
+[![Build Status](https://travis-ci.org/knickmack/bctransit.js.png?branch=master)](https://travis-ci.org/knickmack/bctransit.js)
+
 Scrape BC Transit regions, routes, and schedules with [node](http://nodejs.org).
 
 ## Example
